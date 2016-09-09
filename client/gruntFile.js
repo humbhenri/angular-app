@@ -107,6 +107,10 @@ module.exports = function (grunt) {
       jquery: {
         src:['vendor/jquery/*.js'],
         dest: '<%= distdir %>/jquery.js'
+      },
+      md5: {
+        src:['bower_components/angular-md5/angular-md5.min.js'],
+        dest: '<%= distdir %>/md5.js'
       }
     },
     uglify: {

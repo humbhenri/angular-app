@@ -13,7 +13,8 @@ files = [
   'vendor/angular-ui/**/*.js',
   'src/**/*.js',
   'test/unit/**/*.spec.js',
-  'dist/templates/**/*.js'
+  'dist/templates/**/*.js',
+  'bower_components/angular-md5/angular-md5.min.js'
 ];
 
 // use dots reporter, as travis terminal does not support escaping sequences

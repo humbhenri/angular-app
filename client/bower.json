@@ -1,0 +1,21 @@
+{
+  "name": "angular-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Pawel Kozlowski & Peter Bacon Darwin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/humbhenri/angular-app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-md5": "^0.1.10"
+  }
+}
